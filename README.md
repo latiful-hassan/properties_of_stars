@@ -2,5 +2,5 @@
 - Dataset: **dslabs** <br />
 - Topic: Visualise Property Data on Stars <br />
 - Content: 
-  * Density plots
-  * Scatter plots
+  * Density Plots
+  * Scatter Plots
