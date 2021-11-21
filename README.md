@@ -1,3 +1,6 @@
 # properties_of_stars <br />
-- Analysing and visualising astronomical data using the dslabs dataset in RStudio <br />
-- Density and scatter graphs created to inspect properties of stars
+- Dataset: **dslabs** <br />
+- Topic: Visualise property data on stars <br />
+- Content: 
+  * density plots
+  * scatter plots
