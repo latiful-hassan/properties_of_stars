@@ -1,6 +1,6 @@
 # properties_of_stars <br />
 - Dataset: **dslabs** <br />
-- Topic: Visualise property data on stars <br />
+- Topic: Visualise Property Data on Stars <br />
 - Content: 
-  * density plots
-  * scatter plots
+  * Density plots
+  * Scatter plots
